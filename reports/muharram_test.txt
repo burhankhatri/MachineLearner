@@ -1,0 +1,5 @@
+Muharram mean monthly return: +0.437% (n=60)
+Other months mean return    : +0.703% (n=641)
+Difference                  : -0.266% per month
+Bootstrap p-value           : 0.675
+Verdict                     : NOT statistically supported
